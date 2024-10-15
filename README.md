@@ -66,6 +66,4 @@ This system can be used in traffic analysis to count vehicles in video footage, 
 
 This project is licensed under the MIT License.
 
---- 
 
-This `README.md` explains the project's key features, installation, and usage without including any code snippets.
